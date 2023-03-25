@@ -1,3 +1,0 @@
-C:\Users\Админ\source\repos\Практика4\PerestanovkaSlov\obj\Debug\PerestanovkaSlov.csproj.AssemblyReference.cache
-C:\Users\Админ\source\repos\Практика4\PerestanovkaSlov\obj\Debug\PerestanovkaSlov.csproj.SuggestedBindingRedirects.cache
-C:\Users\Админ\source\repos\Практика4\PerestanovkaSlov\obj\Debug\PerestanovkaSlov.csproj.CoreCompileInputs.cache
