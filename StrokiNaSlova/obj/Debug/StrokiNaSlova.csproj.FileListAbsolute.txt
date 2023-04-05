@@ -1,8 +1,0 @@
-C:\Users\Админ\source\repos\Практика4\StrokiNaSlova\bin\Debug\StrokiNaSlova.exe.config
-C:\Users\Админ\source\repos\Практика4\StrokiNaSlova\bin\Debug\StrokiNaSlova.exe
-C:\Users\Админ\source\repos\Практика4\StrokiNaSlova\bin\Debug\StrokiNaSlova.pdb
-C:\Users\Админ\source\repos\Практика4\StrokiNaSlova\obj\Debug\StrokiNaSlova.csproj.AssemblyReference.cache
-C:\Users\Админ\source\repos\Практика4\StrokiNaSlova\obj\Debug\StrokiNaSlova.csproj.SuggestedBindingRedirects.cache
-C:\Users\Админ\source\repos\Практика4\StrokiNaSlova\obj\Debug\StrokiNaSlova.csproj.CoreCompileInputs.cache
-C:\Users\Админ\source\repos\Практика4\StrokiNaSlova\obj\Debug\StrokiNaSlova.exe
-C:\Users\Админ\source\repos\Практика4\StrokiNaSlova\obj\Debug\StrokiNaSlova.pdb
